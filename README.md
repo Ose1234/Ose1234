@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OseEdward
-- 👀 I’m interested in Web Development- FrontEnd; and QA Testing
-- 🌱 I’m currently learning React framework and Java
+- 👀 I’m a Software QA Engineer
+- 🌱 I’m currently learning Security testing
 - 💞️ I’m looking to collaborate on various projects and I'm open to assist and learn in any way I can
 - 📫 How to reach me : classicedward35@gmail.com
 
